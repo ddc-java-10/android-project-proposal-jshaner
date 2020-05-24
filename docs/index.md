@@ -6,7 +6,7 @@ layout: default
 
 ## Summary
 
-Replace this paragraph with one or more paragraphs summarizing the purpose and operation of the Android app you propose to develop in this project.
+_Buffy_ is a convenient motion picture title finder for audiences looking for viewing suggestions that match specific preferences, and for those who need help remembering the title of a film.
 
 ## Intended users
 
@@ -20,9 +20,13 @@ Please avoid writing too much for the user story. In particular, if the way the 
 
 Here is one (silly) example of an intended user, along with a user story. Please note not only the conceptual structure, but the Markdown syntax used.
 
-* People who like to use randomness in their decision making.
+* Consumers who want to watch a movie with certain specific elements, and would like some title suggestions.
 
-    > As someone who enjoys randomness in my life, I need an app that lets me flip a virtual coin or roll one or more virtual dice, so that I can base my decisions on randomness, without having to carry coins or dice in my pockets.
+    > As a parent of five, who works full time, I don't have the time to keep up with what new movies have been released, and I know I've missed a lot that would interest me.  And I also don't have the time to read descriptions of random movies hoping to find something I like.  I need a way to filter enough specific preferences to return a small, targeted list of titles from which to choose.
+	
+* Consumers who want immediate assistance finding a specific film title.
+	
+	> As a movie buff it is very important to me to not forget the name of a film.  The other night I was out with friends and an old film came up in conversation, that we all remembered obscure details about, but couldn't quite place the title.  If I had an app that could find the title based on a few details it would have come in handy that night.
 
 ## Functionality
 
