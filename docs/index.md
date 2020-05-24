@@ -30,16 +30,26 @@ Here is one (silly) example of an intended user, along with a user story. Please
 
 ## Functionality
 
-List (using a bullet list&mdash;or ordered list, if order is relevant) the key functional aspects that will be provided by the app&mdash;i.e. tell us what the user will be able to do using the app. This should not simply be a re-statement of the [summary](#summary), but should instead provide a more specific articulation of the functionality and user experience. 
+* The user will be presented with 12 different search fields (genre, year(range), actor, director, writer, composer, studio, run time(range), language, MPAA rating, awards(yes/no), and title), into which they can type as much information as they want or know.  The app will return a list of movie titles that match search criteria, sorted in reverse chronological order.
+
+* The user will be able to add a film title to a watchlist for revisiting at another time.
+
+* A "surprise me" button that will only return one movie title, at random.
 
 ## Persistent data
 
-List, in general terms and using a bullet list, what content will be stored on the client side. This should include any information that users of your system would expect to be maintained (i.e. without connection to a server) across multiple sessions of use. 
+* Watchlisted titles.
+
+* Recent search histories.
     
 ## Device/external services
 
-If the client component will need to access special services of the device (e.g. sensors, contacts, messaging), list them here using a bullet list. Also, if the client component will need to access already-existing external services (e.g. real-time weather data, Open Movie Database, Open Trivia Database), those should also be listed here; any such references to external services should include links to the main page or API description page for the service.
+* [the_movie_database_API]: https://developers.themoviedb.org/3/getting-started/introduction
 
 ## Stretch goals/possible enhancements 
 
-If you can identify functional elements of the software that you think might not be achievable in the scope of the project, but which would nonetheless add significant value if you were able to include them, list them here. For now, we recommend listing them in order of complexity/amount of work, from the least to the most.
+* Additional sorting options (alphabetical, popularity, public ratings, run time, genre)
+
+* Links to online streaming options
+
+* Connection to app developer database of film ratings, so in addition to a "suprise me" button, there will be a "Buffy suggests" button.
