@@ -44,7 +44,7 @@ Here is one (silly) example of an intended user, along with a user story. Please
     
 ## Device/external services
 
-* [the_movie_database_API]: https://developers.themoviedb.org/3/getting-started/introduction
+* [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction)
 
 ## Stretch goals/possible enhancements 
 
