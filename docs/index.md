@@ -1,6 +1,6 @@
 ---
-title: My Android project
-description: "Trust me, it'll be cool"
+title: Buffy
+description: "Your personal film selector for movie nights!"
 layout: default
 ---
 
