@@ -22,6 +22,8 @@ _Buffy_ is a convenient motion picture title finder for audiences looking for vi
 
 * The user will be presented with 12 different search fields (genre, year(range), actor, director, writer, composer, studio, run time(range), language, MPAA rating, awards(yes/no), and title), into which they can type as much information as they want or know.  The app will return a list of movie titles that match search criteria, sorted in reverse chronological order.
 
+* The returned list will display the film's poster under each title, as well as a link to a brief overview, and the trailer.
+
 * The user will be able to add a film title to a watchlist for revisiting at another time.
 
 * A "surprise me" button that will only return one movie title, at random.
